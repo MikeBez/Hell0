@@ -3,8 +3,8 @@ public class Sum {
     /*This is just up because it needs to be...I'm not this stupid*/
 
     public static void Main(String[] args){
-        int num1 = 12584;
-        int num2 = 248735;
-        System.out.println("The sum of 12584 and 248135 is" + (num1 + num2));
+        int num1 = 120;
+        int num2 = 240;
+        System.out.println("The sum of 120 and 240 is" + (num1 + num2));
     }
 }
